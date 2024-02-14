@@ -31,7 +31,7 @@
     align-items: center;
 } 
 .small-card__title h1 a{
-    font-size: small;
+    font-size: 1.3rem;
 }
 .container__small-card__separator{
     margin-top: 10px;
