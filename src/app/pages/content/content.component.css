@@ -1,5 +1,5 @@
 .container__content{
-    border: 2px solid white;
+    /* border: 2px solid white; */
     width: 100%;
     height: 100%;
 
@@ -10,10 +10,10 @@
     align-items: center;
 }
 
-.content__cover{
+/* .content__cover{
     border: 2px solid red;
 
-}
+} */
 
 .content__cover img{
     border-radius: 5px;
